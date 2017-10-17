@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\MySqlTestProject.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\MySqlTestProject.exe
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\MySqlTestProject.pdb
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\System.Data.SQLite.dll
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\System.Data.SQLite.xml
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\bin\Debug\System.Data.SQLite.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\obj\Debug\MySqlTestProject.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\obj\Debug\MySqlTestProject.exe
+c:\users\admin\documents\visual studio 2017\Projects\MySqlTestProject\MySqlTestProject\obj\Debug\MySqlTestProject.pdb
