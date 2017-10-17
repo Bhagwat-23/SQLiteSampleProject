@@ -67,6 +67,7 @@ namespace MySqlTestProject
 		{
 			try
 			{
+
 				if (!dbHelper.IsOpen)
 					dbHelper.OpenSqlConnection();
 
