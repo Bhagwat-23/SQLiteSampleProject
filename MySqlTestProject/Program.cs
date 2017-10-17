@@ -7,10 +7,13 @@ namespace MySqlTestProject
 {
 	public class Program
 	{
+		#region Fields...
 		private static string dbConnectionString = @"Data Source=Employee.db";
 		private static DataBaseHelper dbHelper;
 		private static List<Tuple<int, string, double>> empInfo;
+		#endregion
 
+		#region Main method
 		public static void Main(string[] args)
 		{
 			dbHelper = new DataBaseHelper(dbConnectionString);
@@ -55,8 +58,8 @@ namespace MySqlTestProject
 			dbHelper.CloseSqlConnection();
 			Console.ReadKey();
 		}
+		#endregion
 
-		
 
 
 		#region Create Employee Table..
